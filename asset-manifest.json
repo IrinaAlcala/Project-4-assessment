@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//github.com/IrinaAlcala/project-4-assessment/static/css/main.23cf19b8.chunk.css",
+    "main.js": "//github.com/IrinaAlcala/project-4-assessment/static/js/main.c2ba81df.chunk.js",
+    "main.js.map": "//github.com/IrinaAlcala/project-4-assessment/static/js/main.c2ba81df.chunk.js.map",
+    "runtime-main.js": "//github.com/IrinaAlcala/project-4-assessment/static/js/runtime-main.8127fb64.js",
+    "runtime-main.js.map": "//github.com/IrinaAlcala/project-4-assessment/static/js/runtime-main.8127fb64.js.map",
+    "static/js/2.2018531e.chunk.js": "//github.com/IrinaAlcala/project-4-assessment/static/js/2.2018531e.chunk.js",
+    "static/js/2.2018531e.chunk.js.map": "//github.com/IrinaAlcala/project-4-assessment/static/js/2.2018531e.chunk.js.map",
+    "index.html": "//github.com/IrinaAlcala/project-4-assessment/index.html",
+    "precache-manifest.966156d3d41b8603f4639e727c1e29ed.js": "//github.com/IrinaAlcala/project-4-assessment/precache-manifest.966156d3d41b8603f4639e727c1e29ed.js",
+    "service-worker.js": "//github.com/IrinaAlcala/project-4-assessment/service-worker.js",
+    "static/css/main.23cf19b8.chunk.css.map": "//github.com/IrinaAlcala/project-4-assessment/static/css/main.23cf19b8.chunk.css.map",
+    "static/js/2.2018531e.chunk.js.LICENSE.txt": "//github.com/IrinaAlcala/project-4-assessment/static/js/2.2018531e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8127fb64.js",
+    "static/js/2.2018531e.chunk.js",
+    "static/css/main.23cf19b8.chunk.css",
+    "static/js/main.c2ba81df.chunk.js"
+  ]
+}
